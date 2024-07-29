@@ -1,0 +1,14 @@
+<mvc:View controllerName="logo.controller.login_"
+    xmlns:mvc="sap.ui.core.mvc" displayBlock="true"
+    xmlns="sap.m">
+    <Page id="page" title="{i18n>title}">
+        <content>
+         
+         
+            <Text id="text" text='This is 2nd page' />
+        
+        
+        
+         </content>
+    </Page>
+</mvc:View>
